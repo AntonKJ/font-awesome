@@ -11,6 +11,11 @@
       "homepage": "http://twitter.com/antonk"
     }
   ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "4.6.x-dev"
+    }
+  },
   "license": [
       "OFL-1.1",
       "MIT"
