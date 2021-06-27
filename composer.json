@@ -13,7 +13,7 @@
   ],
   "extra": {
     "branch-alias": {
-      "dev-master": "4.6.x-dev"
+      "master": "0.1.x-dev"
     }
   },
   "license": [
